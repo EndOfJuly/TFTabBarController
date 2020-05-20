@@ -1,15 +1,15 @@
 //
-//  TFTabBarControllerTests.swift
-//  TFTabBarControllerTests
+//  TFTabBarControllerDemoTests.swift
+//  TFTabBarControllerDemoTests
 //
-//  Created by duoji on 2020/5/12.
+//  Created by duoji on 2020/5/20.
 //  Copyright © 2020 duoji. All rights reserved.
 //
 
 import XCTest
-@testable import TFTabBarController
+@testable import TFTabBarControllerDemo
 
-class TFTabBarControllerTests: XCTestCase {
+class TFTabBarControllerDemoTests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.

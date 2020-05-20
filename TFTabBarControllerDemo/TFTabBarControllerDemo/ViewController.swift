@@ -1,8 +1,8 @@
 //
 //  ViewController.swift
-//  TFTabBarController
+//  TFTabBarControllerDemo
 //
-//  Created by duoji on 2020/5/12.
+//  Created by duoji on 2020/5/20.
 //  Copyright © 2020 duoji. All rights reserved.
 //
 
