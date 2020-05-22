@@ -86,6 +86,16 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		BD24035B2477685000DE3DD3 /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				BD67280024751402000666ED /* ViewController.swift */,
+				BD67282C24751439000666ED /* ViewController2.swift */,
+				BD67282D24751439000666ED /* ViewController3.swift */,
+			);
+			path = Controllers;
+			sourceTree = "<group>";
+		};
 		BD6727F024751402000666ED = {
 			isa = PBXGroup;
 			children = (
@@ -109,11 +119,9 @@
 		BD6727FB24751402000666ED /* TFTabBarControllerDemo */ = {
 			isa = PBXGroup;
 			children = (
+				BD24035B2477685000DE3DD3 /* Controllers */,
 				BD67283024751465000666ED /* TFTabBarController */,
 				BD6727FC24751402000666ED /* AppDelegate.swift */,
-				BD67280024751402000666ED /* ViewController.swift */,
-				BD67282C24751439000666ED /* ViewController2.swift */,
-				BD67282D24751439000666ED /* ViewController3.swift */,
 				BD67280224751402000666ED /* Main.storyboard */,
 				BD67280524751403000666ED /* Assets.xcassets */,
 				BD67280724751403000666ED /* LaunchScreen.storyboard */,
